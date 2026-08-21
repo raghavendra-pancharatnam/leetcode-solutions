@@ -19,6 +19,7 @@
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/raghavendra-pancharatnam/leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/raghavendra-pancharatnam/leetcode-solutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/raghavendra-pancharatnam/leetcode-solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3731-find-missing-elements](https://github.com/raghavendra-pancharatnam/leetcode-solutions/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -37,6 +38,7 @@
 | [0219-contains-duplicate-ii](https://github.com/raghavendra-pancharatnam/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/raghavendra-pancharatnam/leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/raghavendra-pancharatnam/leetcode-solutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3731-find-missing-elements](https://github.com/raghavendra-pancharatnam/leetcode-solutions/tree/master/3731-find-missing-elements) |
 ## Sliding Window
 |  |
 | ------- |
@@ -47,6 +49,7 @@
 | [0088-merge-sorted-array](https://github.com/raghavendra-pancharatnam/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/raghavendra-pancharatnam/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/raghavendra-pancharatnam/leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3731-find-missing-elements](https://github.com/raghavendra-pancharatnam/leetcode-solutions/tree/master/3731-find-missing-elements) |
 ## String
 |  |
 | ------- |
