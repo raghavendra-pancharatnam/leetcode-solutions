@@ -57,6 +57,7 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/raghavendra-pancharatnam/leetcode-solutions/tree/master/0069-sqrtx) |
+| [2235-add-two-integers](https://github.com/raghavendra-pancharatnam/leetcode-solutions/tree/master/2235-add-two-integers) |
 ## Binary Search
 |  |
 | ------- |
