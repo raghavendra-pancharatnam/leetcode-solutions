@@ -17,6 +17,7 @@
 | [2798-number-of-employees-who-met-the-target](https://github.com/raghavendra-pancharatnam/leetcode-solutions/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/raghavendra-pancharatnam/leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/raghavendra-pancharatnam/leetcode-solutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/raghavendra-pancharatnam/leetcode-solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Two Pointers
 |  |
 | ------- |
@@ -65,6 +66,7 @@
 | [0069-sqrtx](https://github.com/raghavendra-pancharatnam/leetcode-solutions/tree/master/0069-sqrtx) |
 | [2235-add-two-integers](https://github.com/raghavendra-pancharatnam/leetcode-solutions/tree/master/2235-add-two-integers) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/raghavendra-pancharatnam/leetcode-solutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/raghavendra-pancharatnam/leetcode-solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Binary Search
 |  |
 | ------- |
