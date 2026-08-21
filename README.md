@@ -15,6 +15,7 @@
 | [1089-duplicate-zeros](https://github.com/raghavendra-pancharatnam/leetcode-solutions/tree/master/1089-duplicate-zeros) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/raghavendra-pancharatnam/leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/raghavendra-pancharatnam/leetcode-solutions/tree/master/2798-number-of-employees-who-met-the-target) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/raghavendra-pancharatnam/leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Two Pointers
 |  |
 | ------- |
@@ -23,6 +24,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/raghavendra-pancharatnam/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/raghavendra-pancharatnam/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/raghavendra-pancharatnam/leetcode-solutions/tree/master/1089-duplicate-zeros) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/raghavendra-pancharatnam/leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Hash Table
 |  |
 | ------- |
@@ -39,6 +41,7 @@
 | ------- |
 | [0088-merge-sorted-array](https://github.com/raghavendra-pancharatnam/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/raghavendra-pancharatnam/leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/raghavendra-pancharatnam/leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## String
 |  |
 | ------- |
@@ -64,6 +67,7 @@
 | ------- |
 | [0035-search-insert-position](https://github.com/raghavendra-pancharatnam/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/raghavendra-pancharatnam/leetcode-solutions/tree/master/0069-sqrtx) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/raghavendra-pancharatnam/leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Newton's Method
 |  |
 | ------- |
