@@ -71,6 +71,7 @@
 | ------- |
 | [0069-sqrtx](https://github.com/raghavendra-pancharatnam/leetcode-solutions/tree/master/0069-sqrtx) |
 | [2235-add-two-integers](https://github.com/raghavendra-pancharatnam/leetcode-solutions/tree/master/2235-add-two-integers) |
+| [2413-smallest-even-multiple](https://github.com/raghavendra-pancharatnam/leetcode-solutions/tree/master/2413-smallest-even-multiple) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/raghavendra-pancharatnam/leetcode-solutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/raghavendra-pancharatnam/leetcode-solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Binary Search
@@ -111,4 +112,8 @@
 |  |
 | ------- |
 | [1684-count-the-number-of-consistent-strings](https://github.com/raghavendra-pancharatnam/leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
+## Number Theory
+|  |
+| ------- |
+| [2413-smallest-even-multiple](https://github.com/raghavendra-pancharatnam/leetcode-solutions/tree/master/2413-smallest-even-multiple) |
 <!---LeetCode Topics End-->
