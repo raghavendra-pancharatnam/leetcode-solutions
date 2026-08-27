@@ -13,6 +13,7 @@
 | [0217-contains-duplicate](https://github.com/raghavendra-pancharatnam/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/raghavendra-pancharatnam/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [1089-duplicate-zeros](https://github.com/raghavendra-pancharatnam/leetcode-solutions/tree/master/1089-duplicate-zeros) |
+| [1389-create-target-array-in-the-given-order](https://github.com/raghavendra-pancharatnam/leetcode-solutions/tree/master/1389-create-target-array-in-the-given-order) |
 | [1470-shuffle-the-array](https://github.com/raghavendra-pancharatnam/leetcode-solutions/tree/master/1470-shuffle-the-array) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/raghavendra-pancharatnam/leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/raghavendra-pancharatnam/leetcode-solutions/tree/master/2798-number-of-employees-who-met-the-target) |
@@ -116,4 +117,8 @@
 |  |
 | ------- |
 | [2413-smallest-even-multiple](https://github.com/raghavendra-pancharatnam/leetcode-solutions/tree/master/2413-smallest-even-multiple) |
+## Simulation
+|  |
+| ------- |
+| [1389-create-target-array-in-the-given-order](https://github.com/raghavendra-pancharatnam/leetcode-solutions/tree/master/1389-create-target-array-in-the-given-order) |
 <!---LeetCode Topics End-->
