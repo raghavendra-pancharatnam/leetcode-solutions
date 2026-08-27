@@ -57,6 +57,7 @@
 | [0014-longest-common-prefix](https://github.com/raghavendra-pancharatnam/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/raghavendra-pancharatnam/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/raghavendra-pancharatnam/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0520-detect-capital](https://github.com/raghavendra-pancharatnam/leetcode-solutions/tree/master/0520-detect-capital) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/raghavendra-pancharatnam/leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [3794-reverse-string-prefix](https://github.com/raghavendra-pancharatnam/leetcode-solutions/tree/master/3794-reverse-string-prefix) |
 ## Stack
