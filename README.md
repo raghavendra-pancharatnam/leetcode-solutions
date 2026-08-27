@@ -13,6 +13,7 @@
 | [0217-contains-duplicate](https://github.com/raghavendra-pancharatnam/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/raghavendra-pancharatnam/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [1089-duplicate-zeros](https://github.com/raghavendra-pancharatnam/leetcode-solutions/tree/master/1089-duplicate-zeros) |
+| [1313-decompress-run-length-encoded-list](https://github.com/raghavendra-pancharatnam/leetcode-solutions/tree/master/1313-decompress-run-length-encoded-list) |
 | [1389-create-target-array-in-the-given-order](https://github.com/raghavendra-pancharatnam/leetcode-solutions/tree/master/1389-create-target-array-in-the-given-order) |
 | [1470-shuffle-the-array](https://github.com/raghavendra-pancharatnam/leetcode-solutions/tree/master/1470-shuffle-the-array) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/raghavendra-pancharatnam/leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
