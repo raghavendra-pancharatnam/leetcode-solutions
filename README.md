@@ -64,6 +64,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/raghavendra-pancharatnam/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0520-detect-capital](https://github.com/raghavendra-pancharatnam/leetcode-solutions/tree/master/0520-detect-capital) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/raghavendra-pancharatnam/leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
+| [2810-faulty-keyboard](https://github.com/raghavendra-pancharatnam/leetcode-solutions/tree/master/2810-faulty-keyboard) |
 | [3174-clear-digits](https://github.com/raghavendra-pancharatnam/leetcode-solutions/tree/master/3174-clear-digits) |
 | [3794-reverse-string-prefix](https://github.com/raghavendra-pancharatnam/leetcode-solutions/tree/master/3794-reverse-string-prefix) |
 ## Stack
@@ -132,6 +133,7 @@
 |  |
 | ------- |
 | [1389-create-target-array-in-the-given-order](https://github.com/raghavendra-pancharatnam/leetcode-solutions/tree/master/1389-create-target-array-in-the-given-order) |
+| [2810-faulty-keyboard](https://github.com/raghavendra-pancharatnam/leetcode-solutions/tree/master/2810-faulty-keyboard) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/raghavendra-pancharatnam/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3174-clear-digits](https://github.com/raghavendra-pancharatnam/leetcode-solutions/tree/master/3174-clear-digits) |
 | [3959-check-good-integer](https://github.com/raghavendra-pancharatnam/leetcode-solutions/tree/master/3959-check-good-integer) |
