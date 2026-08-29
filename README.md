@@ -18,6 +18,7 @@
 | [1389-create-target-array-in-the-given-order](https://github.com/raghavendra-pancharatnam/leetcode-solutions/tree/master/1389-create-target-array-in-the-given-order) |
 | [1470-shuffle-the-array](https://github.com/raghavendra-pancharatnam/leetcode-solutions/tree/master/1470-shuffle-the-array) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/raghavendra-pancharatnam/leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/raghavendra-pancharatnam/leetcode-solutions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/raghavendra-pancharatnam/leetcode-solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/raghavendra-pancharatnam/leetcode-solutions/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/raghavendra-pancharatnam/leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -56,6 +57,7 @@
 | ------- |
 | [0088-merge-sorted-array](https://github.com/raghavendra-pancharatnam/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/raghavendra-pancharatnam/leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/raghavendra-pancharatnam/leetcode-solutions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/raghavendra-pancharatnam/leetcode-solutions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/raghavendra-pancharatnam/leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/raghavendra-pancharatnam/leetcode-solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -173,9 +175,14 @@
 ## Greedy
 |  |
 | ------- |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/raghavendra-pancharatnam/leetcode-solutions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/raghavendra-pancharatnam/leetcode-solutions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 ## Geometry
 |  |
 | ------- |
 | [1266-minimum-time-visiting-all-points](https://github.com/raghavendra-pancharatnam/leetcode-solutions/tree/master/1266-minimum-time-visiting-all-points) |
+## Counting Sort
+|  |
+| ------- |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/raghavendra-pancharatnam/leetcode-solutions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 <!---LeetCode Topics End-->
