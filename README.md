@@ -67,6 +67,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/raghavendra-pancharatnam/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/raghavendra-pancharatnam/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0520-detect-capital](https://github.com/raghavendra-pancharatnam/leetcode-solutions/tree/master/0520-detect-capital) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/raghavendra-pancharatnam/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/raghavendra-pancharatnam/leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2810-faulty-keyboard](https://github.com/raghavendra-pancharatnam/leetcode-solutions/tree/master/2810-faulty-keyboard) |
 | [3174-clear-digits](https://github.com/raghavendra-pancharatnam/leetcode-solutions/tree/master/3174-clear-digits) |
@@ -75,6 +76,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/raghavendra-pancharatnam/leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/raghavendra-pancharatnam/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [3174-clear-digits](https://github.com/raghavendra-pancharatnam/leetcode-solutions/tree/master/3174-clear-digits) |
 ## Bracket Sequences
 |  |
