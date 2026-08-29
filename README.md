@@ -42,6 +42,7 @@
 | [0001-two-sum](https://github.com/raghavendra-pancharatnam/leetcode-solutions/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/raghavendra-pancharatnam/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/raghavendra-pancharatnam/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/raghavendra-pancharatnam/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/raghavendra-pancharatnam/leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/raghavendra-pancharatnam/leetcode-solutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3731-find-missing-elements](https://github.com/raghavendra-pancharatnam/leetcode-solutions/tree/master/3731-find-missing-elements) |
@@ -63,6 +64,7 @@
 | [0014-longest-common-prefix](https://github.com/raghavendra-pancharatnam/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/raghavendra-pancharatnam/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/raghavendra-pancharatnam/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/raghavendra-pancharatnam/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/raghavendra-pancharatnam/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0520-detect-capital](https://github.com/raghavendra-pancharatnam/leetcode-solutions/tree/master/0520-detect-capital) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/raghavendra-pancharatnam/leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -127,6 +129,7 @@
 ## Counting
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/raghavendra-pancharatnam/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/raghavendra-pancharatnam/leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 ## Number Theory
 |  |
@@ -157,4 +160,8 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/raghavendra-pancharatnam/leetcode-solutions/tree/master/0509-fibonacci-number) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/raghavendra-pancharatnam/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
