@@ -63,6 +63,7 @@
 | [0014-longest-common-prefix](https://github.com/raghavendra-pancharatnam/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/raghavendra-pancharatnam/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/raghavendra-pancharatnam/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0412-fizz-buzz](https://github.com/raghavendra-pancharatnam/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0520-detect-capital](https://github.com/raghavendra-pancharatnam/leetcode-solutions/tree/master/0520-detect-capital) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/raghavendra-pancharatnam/leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2810-faulty-keyboard](https://github.com/raghavendra-pancharatnam/leetcode-solutions/tree/master/2810-faulty-keyboard) |
@@ -81,6 +82,7 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/raghavendra-pancharatnam/leetcode-solutions/tree/master/0069-sqrtx) |
+| [0412-fizz-buzz](https://github.com/raghavendra-pancharatnam/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/raghavendra-pancharatnam/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [2235-add-two-integers](https://github.com/raghavendra-pancharatnam/leetcode-solutions/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/raghavendra-pancharatnam/leetcode-solutions/tree/master/2413-smallest-even-multiple) |
@@ -133,6 +135,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/raghavendra-pancharatnam/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [1389-create-target-array-in-the-given-order](https://github.com/raghavendra-pancharatnam/leetcode-solutions/tree/master/1389-create-target-array-in-the-given-order) |
 | [2810-faulty-keyboard](https://github.com/raghavendra-pancharatnam/leetcode-solutions/tree/master/2810-faulty-keyboard) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/raghavendra-pancharatnam/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
