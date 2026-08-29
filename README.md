@@ -24,6 +24,7 @@
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/raghavendra-pancharatnam/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/raghavendra-pancharatnam/leetcode-solutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/raghavendra-pancharatnam/leetcode-solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3683-earliest-time-to-finish-one-task](https://github.com/raghavendra-pancharatnam/leetcode-solutions/tree/master/3683-earliest-time-to-finish-one-task) |
 | [3731-find-missing-elements](https://github.com/raghavendra-pancharatnam/leetcode-solutions/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
