@@ -200,6 +200,7 @@
 |  |
 | ------- |
 | [0752-open-the-lock](https://github.com/raghavendra-pancharatnam/leetcode-solutions/tree/master/0752-open-the-lock) |
+| [2685-count-the-number-of-complete-components](https://github.com/raghavendra-pancharatnam/leetcode-solutions/tree/master/2685-count-the-number-of-complete-components) |
 ## Bidirectional Search
 |  |
 | ------- |
@@ -208,4 +209,16 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/raghavendra-pancharatnam/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
+## Depth-First Search
+|  |
+| ------- |
+| [2685-count-the-number-of-complete-components](https://github.com/raghavendra-pancharatnam/leetcode-solutions/tree/master/2685-count-the-number-of-complete-components) |
+## Union-Find
+|  |
+| ------- |
+| [2685-count-the-number-of-complete-components](https://github.com/raghavendra-pancharatnam/leetcode-solutions/tree/master/2685-count-the-number-of-complete-components) |
+## Graph Theory
+|  |
+| ------- |
+| [2685-count-the-number-of-complete-components](https://github.com/raghavendra-pancharatnam/leetcode-solutions/tree/master/2685-count-the-number-of-complete-components) |
 <!---LeetCode Topics End-->
