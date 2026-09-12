@@ -12,6 +12,7 @@
 | [0088-merge-sorted-array](https://github.com/raghavendra-pancharatnam/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/raghavendra-pancharatnam/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/raghavendra-pancharatnam/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
+| [0752-open-the-lock](https://github.com/raghavendra-pancharatnam/leetcode-solutions/tree/master/0752-open-the-lock) |
 | [1089-duplicate-zeros](https://github.com/raghavendra-pancharatnam/leetcode-solutions/tree/master/1089-duplicate-zeros) |
 | [1266-minimum-time-visiting-all-points](https://github.com/raghavendra-pancharatnam/leetcode-solutions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1313-decompress-run-length-encoded-list](https://github.com/raghavendra-pancharatnam/leetcode-solutions/tree/master/1313-decompress-run-length-encoded-list) |
@@ -45,6 +46,7 @@
 | [0217-contains-duplicate](https://github.com/raghavendra-pancharatnam/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/raghavendra-pancharatnam/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/raghavendra-pancharatnam/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0752-open-the-lock](https://github.com/raghavendra-pancharatnam/leetcode-solutions/tree/master/0752-open-the-lock) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/raghavendra-pancharatnam/leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/raghavendra-pancharatnam/leetcode-solutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3731-find-missing-elements](https://github.com/raghavendra-pancharatnam/leetcode-solutions/tree/master/3731-find-missing-elements) |
@@ -71,6 +73,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/raghavendra-pancharatnam/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/raghavendra-pancharatnam/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0520-detect-capital](https://github.com/raghavendra-pancharatnam/leetcode-solutions/tree/master/0520-detect-capital) |
+| [0752-open-the-lock](https://github.com/raghavendra-pancharatnam/leetcode-solutions/tree/master/0752-open-the-lock) |
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/raghavendra-pancharatnam/leetcode-solutions/tree/master/1003-check-if-word-is-valid-after-substitutions) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/raghavendra-pancharatnam/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/raghavendra-pancharatnam/leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -187,4 +190,12 @@
 |  |
 | ------- |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/raghavendra-pancharatnam/leetcode-solutions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0752-open-the-lock](https://github.com/raghavendra-pancharatnam/leetcode-solutions/tree/master/0752-open-the-lock) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0752-open-the-lock](https://github.com/raghavendra-pancharatnam/leetcode-solutions/tree/master/0752-open-the-lock) |
 <!---LeetCode Topics End-->
