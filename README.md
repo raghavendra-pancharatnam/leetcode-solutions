@@ -20,6 +20,7 @@
 | [1389-create-target-array-in-the-given-order](https://github.com/raghavendra-pancharatnam/leetcode-solutions/tree/master/1389-create-target-array-in-the-given-order) |
 | [1470-shuffle-the-array](https://github.com/raghavendra-pancharatnam/leetcode-solutions/tree/master/1470-shuffle-the-array) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/raghavendra-pancharatnam/leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1718-construct-the-lexicographically-largest-valid-sequence](https://github.com/raghavendra-pancharatnam/leetcode-solutions/tree/master/1718-construct-the-lexicographically-largest-valid-sequence) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/raghavendra-pancharatnam/leetcode-solutions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/raghavendra-pancharatnam/leetcode-solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/raghavendra-pancharatnam/leetcode-solutions/tree/master/2798-number-of-employees-who-met-the-target) |
@@ -221,4 +222,8 @@
 |  |
 | ------- |
 | [2685-count-the-number-of-complete-components](https://github.com/raghavendra-pancharatnam/leetcode-solutions/tree/master/2685-count-the-number-of-complete-components) |
+## Backtracking
+|  |
+| ------- |
+| [1718-construct-the-lexicographically-largest-valid-sequence](https://github.com/raghavendra-pancharatnam/leetcode-solutions/tree/master/1718-construct-the-lexicographically-largest-valid-sequence) |
 <!---LeetCode Topics End-->
