@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/raghavendra-pancharatnam/leetcode-solutions/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/raghavendra-pancharatnam/leetcode-solutions/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/raghavendra-pancharatnam/leetcode-solutions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/raghavendra-pancharatnam/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/raghavendra-pancharatnam/leetcode-solutions/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/raghavendra-pancharatnam/leetcode-solutions/tree/master/0035-search-insert-position) |
@@ -32,6 +33,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/raghavendra-pancharatnam/leetcode-solutions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/raghavendra-pancharatnam/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/raghavendra-pancharatnam/leetcode-solutions/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/raghavendra-pancharatnam/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -57,6 +59,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/raghavendra-pancharatnam/leetcode-solutions/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/raghavendra-pancharatnam/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/raghavendra-pancharatnam/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/raghavendra-pancharatnam/leetcode-solutions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
